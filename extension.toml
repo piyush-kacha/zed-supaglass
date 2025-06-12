@@ -1,0 +1,7 @@
+id = "supaglass"
+name = "supaglass"
+version = "0.1.0"
+schema_version = 1
+authors = ["Piyush Kacha <piyushkacha75@gmail.com>"]
+description = "SupaGlass is a theme for Zed text editor."
+repository = "https://github.com/piyush-kacha/zed-supaglass"
